@@ -1,6 +1,7 @@
-<div class="flex items-center mb-6">
+<div {{ $attributes->class(['flex items-center']) }} >
     <a
-       href="javascript:void(0)"
+       href="https://facebook.com/webmastermazumder"
+       target="_blank"
        class="
        w-8
        h-8
@@ -8,9 +9,17 @@
        items-center
        justify-center
        rounded-full
+       border
+       border-2
+       border-dark
+       dark:border-white
        border border-[#E5E5E5]
        text-dark
-       hover:text-white hover:bg-primary hover:border-primary
+       dark:text-white
+       hover:text-white
+       hover:bg-primary
+       hover:border-primary
+       hover:dark:border-primary
        mr-3
        sm:mr-4
        lg:mr-3
@@ -18,8 +27,8 @@
        "
        >
        <svg
-          width="8"
-          height="16"
+          width="10"
+          height="18"
           viewBox="0 0 8 16"
           class="fill-current"
           >
@@ -29,7 +38,8 @@
        </svg>
     </a>
     <a
-       href="javascript:void(0)"
+       href="https://twitter.com/codewithpranta"
+       target="_blank"
        class="
        w-8
        h-8
@@ -37,9 +47,17 @@
        items-center
        justify-center
        rounded-full
+       border
+       border-2
+       border-dark
+       dark:border-white
        border border-[#E5E5E5]
        text-dark
-       hover:text-white hover:bg-primary hover:border-primary
+       dark:text-white
+       hover:text-white
+       hover:bg-primary
+       hover:border-primary
+       hover:dark:border-primary
        mr-3
        sm:mr-4
        lg:mr-3
@@ -58,7 +76,8 @@
        </svg>
     </a>
     <a
-       href="javascript:void(0)"
+       href="https://www.instagram.com/codewithpranta/"
+       target="_blank"
        class="
        w-8
        h-8
@@ -66,9 +85,48 @@
        items-center
        justify-center
        rounded-full
+       border
+       border-2
+       border-dark
+       dark:border-white
        border border-[#E5E5E5]
        text-dark
-       hover:text-white hover:bg-primary hover:border-primary
+       dark:text-white
+       hover:text-white
+       hover:bg-primary
+       hover:border-primary
+       hover:dark:border-primary
+       mr-3
+       sm:mr-4
+       lg:mr-3
+       xl:mr-4
+       "
+       >
+       <svg xmlns="http://www.w3.org/2000/svg" class="fill-current" width="24" height="24" viewBox="0 0 24 24">
+         <path d="M 8 3 C 5.243 3 3 5.243 3 8 L 3 16 C 3 18.757 5.243 21 8 21 L 16 21 C 18.757 21 21 18.757 21 16 L 21 8 C 21 5.243 18.757 3 16 3 L 8 3 z M 8 5 L 16 5 C 17.654 5 19 6.346 19 8 L 19 16 C 19 17.654 17.654 19 16 19 L 8 19 C 6.346 19 5 17.654 5 16 L 5 8 C 5 6.346 6.346 5 8 5 z M 17 6 A 1 1 0 0 0 16 7 A 1 1 0 0 0 17 8 A 1 1 0 0 0 18 7 A 1 1 0 0 0 17 6 z M 12 7 C 9.243 7 7 9.243 7 12 C 7 14.757 9.243 17 12 17 C 14.757 17 17 14.757 17 12 C 17 9.243 14.757 7 12 7 z M 12 9 C 13.654 9 15 10.346 15 12 C 15 13.654 13.654 15 12 15 C 10.346 15 9 13.654 9 12 C 9 10.346 10.346 9 12 9 z"/>
+       </svg>
+    </a>
+    <a
+       href="https://www.linkedin.com/in/mazumderp07/"
+       target="_blank"
+       class="
+       w-8
+       h-8
+       flex
+       items-center
+       justify-center
+       rounded-full
+       border
+       border-2
+       border-dark
+       dark:border-white
+       border border-[#E5E5E5]
+       text-dark
+       dark:text-white
+       hover:text-white
+       hover:bg-primary
+       hover:border-primary
+       hover:dark:border-primary
        mr-3
        sm:mr-4
        lg:mr-3
@@ -77,36 +135,7 @@
        >
        <svg
           width="16"
-          height="12"
-          viewBox="0 0 16 12"
-          class="fill-current"
-          >
-          <path
-             d="M15.6645 1.88018C15.4839 1.13364 14.9419 0.552995 14.2452 0.359447C13.0065 6.59222e-08 8 0 8 0C8 0 2.99355 6.59222e-08 1.75484 0.359447C1.05806 0.552995 0.516129 1.13364 0.335484 1.88018C0 3.23502 0 6 0 6C0 6 0 8.79263 0.335484 10.1198C0.516129 10.8664 1.05806 11.447 1.75484 11.6406C2.99355 12 8 12 8 12C8 12 13.0065 12 14.2452 11.6406C14.9419 11.447 15.4839 10.8664 15.6645 10.1198C16 8.79263 16 6 16 6C16 6 16 3.23502 15.6645 1.88018ZM6.4 8.57143V3.42857L10.5548 6L6.4 8.57143Z"
-             />
-       </svg>
-    </a>
-    <a
-       href="javascript:void(0)"
-       class="
-       w-8
-       h-8
-       flex
-       items-center
-       justify-center
-       rounded-full
-       border border-[#E5E5E5]
-       text-dark
-       hover:text-white hover:bg-primary hover:border-primary
-       mr-3
-       sm:mr-4
-       lg:mr-3
-       xl:mr-4
-       "
-       >
-       <svg
-          width="14"
-          height="14"
+          height="16"
           viewBox="0 0 14 14"
           class="fill-current"
           >
@@ -115,4 +144,42 @@
              />
        </svg>
     </a>
+    <a
+    href="https://www.youtube.com/channel/UC433ZbuTKqpdnaTMoSuqb-w"
+    target="_blank"
+    class="
+    w-8
+    h-8
+    flex
+    items-center
+    justify-center
+    rounded-full
+    border
+    border-2
+    border-dark
+    dark:border-white
+    border border-[#E5E5E5]
+    text-dark
+    dark:text-white
+    hover:text-white
+    hover:bg-primary
+    hover:border-primary
+    hover:dark:border-primary
+    mr-3
+    sm:mr-4
+    lg:mr-3
+    xl:mr-4
+    "
+    >
+    <svg
+       width="16"
+       height="12"
+       viewBox="0 0 16 12"
+       class="fill-current"
+       >
+       <path
+          d="M15.6645 1.88018C15.4839 1.13364 14.9419 0.552995 14.2452 0.359447C13.0065 6.59222e-08 8 0 8 0C8 0 2.99355 6.59222e-08 1.75484 0.359447C1.05806 0.552995 0.516129 1.13364 0.335484 1.88018C0 3.23502 0 6 0 6C0 6 0 8.79263 0.335484 10.1198C0.516129 10.8664 1.05806 11.447 1.75484 11.6406C2.99355 12 8 12 8 12C8 12 13.0065 12 14.2452 11.6406C14.9419 11.447 15.4839 10.8664 15.6645 10.1198C16 8.79263 16 6 16 6C16 6 16 3.23502 15.6645 1.88018ZM6.4 8.57143V3.42857L10.5548 6L6.4 8.57143Z"
+          />
+    </svg>
+ </a>
  </div>

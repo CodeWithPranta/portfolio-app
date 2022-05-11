@@ -7,15 +7,15 @@
     <div class="flex -mx-4 items-center justify-between relative">
         <div class="pr-4 w-60 max-w-full">
             <a href="/" class="w-full flex items-center py-2">
-                <img 
-                   src="{{ url('/img/code-logo.png') }}" 
-                   alt="logo"
-                   class="w-[48px] lg:w-[64px] inline-block dark:hidden" 
-                />
-                <img 
+                <img
                    src="{{ url('/img/code-logo.png') }}"
                    alt="logo"
-                   class="w-[480px] lg:w-[64px] hidden dark:inline-block" 
+                   class="w-[48px] lg:w-[64px] inline-block dark:hidden"
+                />
+                <img
+                   src="{{ url('/img/code-logo.png') }}"
+                   alt="logo"
+                   class="w-[480px] lg:w-[64px] hidden dark:inline-block"
                 />
                 <span class="text-xl xl:text-2xl font-bold text-[#27b37b] dark:text-gray-200">odeWithPranta</span>
             </a>
@@ -33,6 +33,11 @@
                     @foreach ($navigationItems as $item)
                         <x-layout.navbar-item :href="$item['href']">{{ $item['label'] }}</x-layout.navbar-item>
                     @endforeach
+
+                    <div class="ml-0 lg:ml-10 xl:ml-16 relative top-1">
+                        <div class="g-ytsubscribe" data-channelid="UC433ZbuTKqpdnaTMoSuqb-w" data-layout="default"
+                               data-count="default"></div>
+                    </div>
                 </ul>
                 </nav>
             </div>
