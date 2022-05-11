@@ -52,10 +52,12 @@
               <span class="text-amber-500 font-bold">PHP</span>, <span class="text-amber-500 font-bold">Python</span> and <span class="text-amber-500 font-bold">JavaScript</span>. <br />
               My content is mostly focused on practical examples and projects. This year I have created a YouTube channel for same purpose. <br />
             </p>
-            <x-button-link href="https://webapp99.com" variant="primary" target="_blank">
+            <x-button-link href="https://webapp99.com" variant="primary" target="_blank"
+                class="mr-3 w-full mb-3 text-center lg:w-auto">
               View my blog- Webapp99
             </x-button-link>
-            <x-button-link href="https://www.youtube.com/channel/UC433ZbuTKqpdnaTMoSuqb-w" variant="red" target="_blank">
+            <x-button-link href="https://www.youtube.com/channel/UC433ZbuTKqpdnaTMoSuqb-w" variant="red" target="_blank"
+                class="mr-3 w-full mb-3 text-center lg:w-auto">
               View my channel
             </x-button-link>
           </div>

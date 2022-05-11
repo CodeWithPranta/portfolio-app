@@ -17,7 +17,7 @@
                    alt="logo"
                    class="w-[480px] lg:w-[64px] hidden dark:inline-block"
                 />
-                <span class="text-xl xl:text-2xl font-bold text-[#27b37b] dark:text-gray-200">odeWithPranta</span>
+                <span class="text-xl xl:text-2xl font-bold text-primary dark:text-gray-200">odeWithPranta</span>
             </a>
         </div>
         <div class="flex px-4 justify-end items-center w-full">

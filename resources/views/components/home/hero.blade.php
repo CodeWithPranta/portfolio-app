@@ -7,8 +7,8 @@
             <h1
               class="text-dark dark:text-gray-200 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6"
             >
-              My Name is Pranta. <br/>
-              Professional<br><span class="rounded-md text-amber-600">Full-stack Developer</span>.
+              Pranta Mazumder,<br/>
+              Full-stack <span class="rounded-md text-amber-600">Developer</span>.
             </h1>
             <p class="text-base mb-8 max-w-[520px]">
               I am a developer with 6+ years of experience. <br/>
