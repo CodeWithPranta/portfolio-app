@@ -7,15 +7,18 @@
             <h1
               class="text-dark dark:text-gray-200 font-bold text-4xl sm:text-[42px] lg:text-[40px] xl:text-[42px] leading-snug mb-6"
             >
-              My Name is Pranta, <br/>
-              Creator of <span class="rounded-md text-amber-600">CodeWithPranta</span>.
+              My Name is Pranta. <br/>
+              Professional<br><span class="rounded-md text-amber-600">Full-stack Developer</span>.
             </h1>
             <p class="text-base mb-8 max-w-[520px]">
               I am a developer with 6+ years of experience. <br/>
               I love sharing my knowledge to others, that's why I created a
               <a
                 class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
-                href="https://www.youtube.com/channel/UC433ZbuTKqpdnaTMoSuqb-w" target="_blank">YouTube Channel</a>. <br>
+                href="https://www.youtube.com/channel/UC433ZbuTKqpdnaTMoSuqb-w" target="_blank">YouTube Channel</a> and
+                <a
+                class="text-primary font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
+                href="https://webapp99.com" target="_blank">Programming Blog</a>. <br>
             </p>
             <ul class="flex flex-wrap items-center">
               <li>
