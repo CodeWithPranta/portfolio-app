@@ -1,0 +1,8 @@
+###Daemon driver error when adding phpmyadmin
+Something like that port already allocated/ or container repitition
+
+for a in `docker ps -a -q`
+do
+  echo "Stopping container - $a"
+  docker stop $a
+done
