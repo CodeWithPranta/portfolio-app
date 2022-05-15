@@ -44,13 +44,13 @@
             </h2>
             <p class="text-base dark:text-gray-400 mb-8">
               I have been working as a professional software developer for 6+ years. <br />
-              During my career I have worked on various types of projects with various technologies,
+              During my career, I have worked on various types of projects with various technologies,
               but very often I feel that I am a junior developer who just started coding. <br />
             </p>
             <p class="text-base dark:text-gray-400 mb-8">
-              In 2020 I decided to create a Progamming blog and share my knowledge. My blog is mostly focused on
-              <span class="text-amber-500 font-bold">PHP</span>, <span class="text-amber-500 font-bold">Python</span> and <span class="text-amber-500 font-bold">JavaScript</span>. <br />
-              My content is mostly focused on practical examples and projects. This year I have created a YouTube channel for same purpose. <br />
+              In 2020 I decided to create a Programming blog and share my knowledge. My blog is mostly focused on
+              <span class="text-amber-500 font-bold">PHP</span>, <span class="text-amber-500 font-bold">Dart</span>, <span class="text-amber-500 font-bold">Python</span> and <span class="text-amber-500 font-bold">JavaScript</span>. <br />
+              My content is mostly focused on practical examples and projects. This year I have created a YouTube channel for the same purpose. <br />
             </p>
             <x-button-link href="https://webapp99.com" variant="primary" target="_blank"
                 class="mr-3 w-full mb-3 text-center lg:w-auto">
