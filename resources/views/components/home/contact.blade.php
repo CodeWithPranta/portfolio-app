@@ -44,7 +44,9 @@
                 <h4 class="font-bold text-dark dark:text-gray-200 text-xl mb-1">
                   Email Address
                 </h4>
-                <p class="text-base text-body-color dark:text-gray-300">codewithpranta@gmail.com</p>
+                <p class="text-base text-body-color dark:text-gray-300">
+                    <a href="mailto:codewithpranta@gmail.com" class="hover:text-gray-400">codewithpranta@gmail.com</a>
+                </p>
               </div>
             </div>
             <div class="flex mb-8 max-w-[370px] w-full">
@@ -74,9 +76,11 @@
                 </div>
                 <div class="w-full">
                   <h4 class="font-bold text-dark dark:text-gray-200 text-xl mb-1">
-                    Whatsapp Number
+                    Whatsapp
                   </h4>
-                  <p class="text-base text-body-color dark:text-gray-300">+8801518480999</p>
+                  <p class="text-base text-body-color dark:text-gray-300">
+                      <a href="https://wa.me/8801518480999" target="_blank" class="hover:text-gray-400">wa.me/8801518480999</a>
+                  </p>
                 </div>
               </div>
           </div>
